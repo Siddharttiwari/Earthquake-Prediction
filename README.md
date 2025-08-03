@@ -1,4 +1,4 @@
-# 🌍 Earthquake Magnitude Prediction App
+# 🌍 Earthquake Magnitude Prediction
 
 This is a **Streamlit web application** that predicts the **magnitude of earthquakes** based on features such as depth, latitude, longitude, and time. The app uses machine learning models like **Random Forest**, **SVM**, and **Linear Regression** to make predictions and compare model performance.
 
